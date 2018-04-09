@@ -1,6 +1,6 @@
 # Overview
 
-Barebones netty websocket server that listens on port 4202
+Barebones netty websocket server that listens on port 4202 and simply responds with the request text in upper-case.
 
 # Build
 ```
