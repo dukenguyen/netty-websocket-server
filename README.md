@@ -9,5 +9,5 @@ mvn clean package
 
 # Run
 ```
-java -Xms128m -Xmx256m -Dio.netty.maxDirectMemory=128000000 target/netty-websocket-server-1.0-SNAPSHOT-jar-with-dependencies.jar
+java -Xms128m -Xmx256m -Dio.netty.maxDirectMemory=128000000 -jar target/netty-websocket-server-1.0-SNAPSHOT-jar-with-dependencies.jar
 ```
